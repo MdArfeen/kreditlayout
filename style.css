@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+    margin-left: 0;
+}
+nav{
+    background-color: rgb(210, 200, 200);
+    height: 50px;
+}
+
+li{
+padding-top: 12px;
+}
+
+.btn{
+background-color: pink;
+color: rgb(226, 133, 149);
+border-radius: 5px;
+}
+.img{
+    width: 120px;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+
+.u{
+    text-decoration: underline;
+    text-decoration-color: rgb(179, 179, 16);
+}
+
+.container{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    justify-content:flex-start;
+    gap: 10px;
+   
+    
+}
+.box{
+height: auto;
+width: 250px;
+border:2px solid black;
+padding-left: 100px;
+padding-right: 100px;
+border-radius: 10px;
+}
+
+.img1{
+    max-width: 100%;
+    height: auto;
+}
+
+.text{
+    font-family: sans-serif;
+}
+.container2{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    justify-content:flex-start;
+    gap: 10px;
+}
+
+.item{
+    height: auto;
+    width: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 10px;
+    }
+    .i1{
+        height: 100px;
+        width: 200px;
+    }
+    
+    .i2{
+        height: 100px;
+        width: 200px;
+    }
+    
+    .i3{
+        height: 100px;
+        width: 200px;
+    }
+    .container3{
+        height: 600px;
+        width: 800px;
+        background-color: yellow;
+    }
+
+    .form{
+        margin-top: 20px;
+        margin-left: 200px;
+        height: 500px;
+        width: 400px;
+        background-color: white; 
+    }
+    footer{
+        margin-top: 145px;
+        background-color: black;
+        color: white;
+    }
+    .cr{
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+    .acn{
+        text-align: center;
+    }
+    button{
+        background-color: aquamarine;
+        height: 30px;
+        width: 165px;
+        border-radius: 10px;
+
+    }
+    .m{
+        background-color: rgb(113, 113, 175);
+        border-radius: 2px;
+    }
